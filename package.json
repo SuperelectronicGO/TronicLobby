@@ -1,0 +1,11 @@
+{
+  "displayName": "TronicLobby",
+  "name": "com.tronicsoft.troniclobby",
+  "description": "Steamworks lobby system and data management system for unity",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "author": {
+    "name": "TronicSoft"
+  },
+  "dependencies": {}
+}

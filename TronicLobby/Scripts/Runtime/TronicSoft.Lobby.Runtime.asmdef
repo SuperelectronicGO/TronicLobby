@@ -1,0 +1,25 @@
+{
+    "name": "TronicSoft.Lobby.Runtime",
+    "rootNamespace": "TronicSoft.Lobby.Runtime",
+    "references": [
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5",
+        "GUID:5540e30183c82e84b954c033c388e06c",
+        "GUID:fe25561d224ed4743af4c60938a59d0b",
+        "GUID:70ea675efa2644cef98c7ece24158333",
+        "GUID:6f061f1e728548c4a85ec153ea76e0a2",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:c71612acbe346a344abbc0dcfdf4f0bd",
+        "GUID:dd45bb705edc4cf47acd3a4ae20a9e23",
+        "GUID:e0cd26848372d4e5c891c569017e11f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
